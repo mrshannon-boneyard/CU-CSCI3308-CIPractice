@@ -1,3 +1,5 @@
+![](https://travis-ci.org/mrshannon/CU-CSCI3308-CIPractice.svg?branch=master)
+
 CU-CSCI3308-CIPractice
 ======================
 
